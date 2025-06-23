@@ -1,42 +1,54 @@
-Sobre Nosotros – Equipo de Proyecto Estudiantil 😃
-🎓 ¡Hola! 👋
-Somos un grupo de estudiantes de Ingeniería de Sistemas, actualmente desarrollando un proyecto académico como parte de nuestro proceso de formación profesional. Nos apasiona la tecnología, el trabajo en equipo y aprender haciendo.
+<h1 align="center">Hola 👋 somos un grupo de estudiantes de Ingeniería de Sistemas ✨</h1>
 
-🧠 ¿Qué hacemos?
-Estamos construyendo un sistema completo basado en arquitectura distribuida (Frontend + Backend + Base de datos), aplicando metodologías ágiles como Scrum y buenas prácticas de desarrollo como DevOps.
+<p align="center">
+  <img src="https://img.shields.io/badge/Trabajo%20en%20equipo-💻%20Scrum-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Aprendices%20de%20DevOps-🔧%20Azure-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend%20en%20C++-💡%20Lógica%20Pura-informational?style=for-the-badge">
+</p>
 
-🛠️ Tecnologías que estamos aprendiendo y usando
+<h2>👨‍🎓 Sobre nosotros</h2>
+<p align="left">
+Somos un equipo universitario que está aprendiendo sobre desarrollo de software a través de un proyecto real de clase.  
+Nos estamos formando en arquitectura distribuida, desarrollo ágil, bases de datos y diseño de sistemas.
+</p>
 
-Frontend: HTML, CSS, C++ (interfaces gráficas)
+<h2>🚀 Proyecto en desarrollo: CineConecta</h2>
+<p align="left">
+🎬 Plataforma interactiva inspirada en Netflix  
+🎮 Incluye gamificación, logros, perfiles, amigos y recomendación de películas  
+🔎 Búsquedas optimizadas con árboles AVL y estructuras eficientes  
+☁️ Despliegue en Azure con CI/CD
+</p>
 
-Backend: C++, FastAPI, lógica distribuida
+<h2>🧠 Tecnologías que usamos</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,py,mysql,git,github,vscode,azure,figma&perline=10" />
+  </a>
+</p>
 
-Base de Datos: PostgreSQL, MySQL (en Azure)
+<h2>🧩 Metodologías</h2>
+<ul>
+  <li>Scrum con reuniones de 15 min (sprints semanales)</li>
+  <li>Modelo Ágil + integración con prácticas DevOps</li>
+  <li>Recolección de requerimientos, historias de usuario, y diagramas UML</li>
+</ul>
 
-Herramientas: Git, GitHub, Lucidchart, Azure DevOps
+<h2>🧑‍🤝‍🧑 Integrantes del equipo</h2>
+<ul>
+  <li><b>Karol</b> – Product Owner</li>
+  <li><b>Leidy</b> – Scrum Master / Líder Técnico</li>
+  <li><b>David</b> – Desarrollador Backend</li>
+  <li><b>Diego</b> – Desarrollador Frontend</li>
+  <li><b>Sebas</b> – QA / DevOps</li>
+</ul>
 
+<h2>📸 Progreso</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" alt="racha" />
+</p>
 
-🚀 Nuestro proyecto actual: CineConecta
-Una plataforma interactiva inspirada en Netflix, que permite:
-
-Buscar y registrar películas 🎬
-
-Crear perfiles de usuario con logros y gamificación 🏆
-
-Agregar amigos y ver recomendaciones sociales 🤝
-
-Utilizar árboles y estructuras eficientes para búsquedas avanzadas 🌳
-
-📋 Qué estamos aprendiendo
-
-Definir requerimientos de software (IEEE 830)
-
-Crear diagramas UML (casos de uso, clases, componentes, arquitectura)
-
-Organizar historias de usuario, épicas y características
-
-Desarrollar una vista física del sistema en la nube (Azure)
-
-
-💡 Objetivo del proyecto
-Aplicar los conocimientos adquiridos en clase de manera práctica, trabajando colaborativamente y siguiendo el ciclo de vida del software desde el análisis hasta el despliegue.
+<h2>📫 Contacto</h2>
+<p>
+Si deseas conocer más del proyecto, puedes contactarnos a través del correo institucional del equipo o consultar con nuestro docente orientador.
+</p>
