@@ -20,12 +20,6 @@ Nos estamos formando en arquitectura distribuida, desarrollo ágil, bases de dat
 ☁️ Despliegue en Azure con CI/CD
 </p>
 
-<h2>🧠 Tecnologías que usamos</h2>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,nodejs,py,mysql,git,github,vscode,azure,figma&perline=10" />
-  </a>
-</p>
 
 <h2>🧩 Metodologías</h2>
 <ul>
@@ -43,10 +37,6 @@ Nos estamos formando en arquitectura distribuida, desarrollo ágil, bases de dat
   <li><b>Sebas</b> – QA / DevOps</li>
 </ul>
 
-<h2>📸 Progreso</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" alt="racha" />
-</p>
 
 <h2>📫 Contacto</h2>
 <p>
