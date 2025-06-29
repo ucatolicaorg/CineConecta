@@ -15,7 +15,7 @@ public class CineController {
 
     @GetMapping("/health")
     public ResponseEntity<String> checkHeaders() {
-        return ResponseEntity.ok("Hotel Service is up and running");
+        return ResponseEntity.ok("Cine conecta is up and running");
     }
 
     @GetMapping("")
