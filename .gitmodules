@@ -1,9 +1,9 @@
-[submodule "cineconecta_back"]
-	path = cineconecta_back
-	url = https://github.com/lobo2ambicioso/cineconecta_back.git
 [submodule "cineconecta_front"]
 	path = cineconecta_front
 	url = https://github.com/lobo2ambicioso/cineconecta_front.git
+[submodule "cineconecta_back"]
+	path = cineconecta_back
+	url = https://github.com/lobo2ambicioso/cineconecta_back.git
 [submodule "cineconecta_films"]
 	path = cineconecta_films
 	url = https://github.com/lobo2ambicioso/cineconecta_films.git

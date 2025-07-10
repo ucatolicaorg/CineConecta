@@ -1,0 +1,33 @@
+services:
+  cineconecta_films:
+    build: ./cineconecta_films
+    container_name: cineconecta_films
+    ports:
+      - "5000:5000"
+    networks:
+      - cineconecta_network
+
+  cineconecta_back:
+    build: ./cineconecta_back
+    container_name: cineconecta_back
+    ports:
+      - "8080:8080"
+    networks:
+      - cineconecta_network
+    depends_on:
+      - cineconecta_films
+
+  cineconecta_front:
+    build: ./cineconecta_front
+    container_name: cineconecta_front
+    ports:
+      - "3000:3000"
+    networks:
+      - cineconecta_network
+    depends_on:
+      - cineconecta_back
+      - cineconecta_films
+
+networks:
+  cineconecta_network:
+    driver: bridge
