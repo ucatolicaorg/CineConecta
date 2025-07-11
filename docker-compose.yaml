@@ -1,6 +1,7 @@
 services:
   cineconecta_films:
     build: ./cineconecta_films
+    image: diegouwuntu/cineconecta_films:latest
     container_name: cineconecta_films
     ports:
       - "5000:5000"
@@ -9,6 +10,7 @@ services:
 
   cineconecta_back:
     build: ./cineconecta_back
+    image: diegouwuntu/cineconecta_back:latest
     container_name: cineconecta_back
     ports:
       - "8080:8080"
@@ -19,6 +21,7 @@ services:
 
   cineconecta_front:
     build: ./cineconecta_front
+    image: diegouwuntu/cineconecta_front:latest
     container_name: cineconecta_front
     ports:
       - "3000:3000"
